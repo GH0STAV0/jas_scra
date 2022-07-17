@@ -16,7 +16,7 @@ import drive_chrome
 import cnf_add
 import username_gen
 import activation_link
-import tor_pro
+# import tor_pro
 import mod_vpn2
 import save_sql_jas
 # import mod_vpn2
